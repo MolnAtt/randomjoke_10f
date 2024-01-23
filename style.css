@@ -48,6 +48,7 @@ aside{
     content: ")";   
 }
 
+
 .kerdes, .valasz{
     padding:20px;
     text-align: center;
@@ -105,4 +106,9 @@ a {
     justify-items: stretch;
     align-items: center;
     align-content: center;
+}
+
+
+.nemlatszik {
+    display:none;
 }
